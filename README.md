@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1> Hi, welcome <img src="hi.gif" width="30px" alt="hi"/></h1>
 
-<!--
-**jefeferreira/jefeferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-ferreira-885923186/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Meu nome é Jeferson Ferreira
+
+  <img src="notebook.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Ilustração de um computador">
+
+  - 💻 Desenvolvedor Backend
+
+  - ⚡ Apaixonado por Esportes, Jogos e Tecnologia
+
+  - 🎓 Estudante de Programação
+
+  - 💡 Gosto de desafios
+
+## Linguagens
+
