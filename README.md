@@ -27,6 +27,6 @@
 
 <div align="left">
 
-  ![Jeferson Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefeferreira&hide_progress=false)
+  ![Jeferson Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefeferreira&hide_progress=false&amp;theme=dracula)
 
 </div>
