@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/mario-header.gif" alt="welcome"/>
+  <img src="./assets/mario-banner.gif" alt="welcome"/>
 </div>
 
 ###  👨🏻‍💻 About Me:
